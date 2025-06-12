@@ -1,4 +1,3 @@
-// pages/checkout.tsx
 import { useCart } from '@/context/CartContext';
 import { useRouter } from 'next/router';
 import { useState } from 'react';

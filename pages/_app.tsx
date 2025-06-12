@@ -1,4 +1,3 @@
-// pages/_app.tsx
 import type { AppProps } from 'next/app';
 import { CartProvider } from '@/context/CartContext';
 import Layout from '@/components/Layout';

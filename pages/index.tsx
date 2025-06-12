@@ -1,4 +1,3 @@
-// pages/index.tsx
 import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
