@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "T-Shirt",
+    "description": "High-quality cotton T-shirt",
+    "image": "/tshirt.jpg",
+    "variants": [
+      { "size": "S", "color": "Red", "price": 500 },
+      { "size": "M", "color": "Red", "price": 550 },
+      { "size": "L", "color": "Blue", "price": 600 }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Sneakers",
+    "description": "Comfortable running shoes",
+    "image": "/shoes.jpg",
+    "variants": [
+      { "size": "7", "color": "White", "price": 1200 },
+      { "size": "8", "color": "Black", "price": 1250 },
+      { "size": "9", "color": "White", "price": 1300 }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Backpack",
+    "description": "Stylish school/college backpack",
+    "image": "/bag.jpg",
+    "variants": [
+      { "size": "M", "color": "Gray", "price": 800 },
+      { "size": "L", "color": "Black", "price": 950 }
+    ]
+  },
+  {
+  "id": "4",
+  "title": "Casual Hoodie",
+  "description": "Comfortable cotton hoodie, ideal for daily wear.",
+  "image": "/hoodies.webp",
+  "variants": [
+    { "size": "M", "color": "Black", "price": 999 },
+    { "size": "L", "color": "Gray", "price": 1049 }
+  ]
+},
+{
+  "id": "5",
+  "title": "Sporty Goggles",
+  "description": "UV-protected goggles perfect for swimming and outdoor sports.",
+  "image": "/goggles.webp",
+  "variants": [
+    { "size": "Standard", "color": "Blue", "price": 499 },
+    { "size": "Standard", "color": "Black", "price": 549 }
+  ]
+}
+
+]
